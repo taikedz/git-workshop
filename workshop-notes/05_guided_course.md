@@ -37,14 +37,14 @@ bash demo-script.sh
 git checkout -b add-jsmith
 ```
 
-Edit the file in `data/participants` in a text editor.
+Edit the file in `data/participants.txt` in a text editor.
 
 After saving, run the demo script again to see that your name is displayed!
 
 ## Stage, commit and push
 
 ```sh
-git add data/participants
+git add data/participants.txt
 git commit -m "Added (your name) to participants file"
 git push --set-upstream origin add-jsmith
 ```
@@ -59,11 +59,13 @@ Fill in the dialog and submit. Now wait for your PR to be accepted
 
 ## Pull in changes from original repo
 
-Update your repo with the original repo
+You may be asked to update your repo with the original repo.
 
 ```sh
 git pull https://github.com/taikedz/git-workshop master
 ```
+
+If you get a "merge conflict" message, edit the `data/participants.txt` file again to remove the conflict lines. Make sure to preserve any new names that have appeared.
 
 ## You're done!
 
