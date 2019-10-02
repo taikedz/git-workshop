@@ -15,3 +15,5 @@ Finally if you want somewhere to ask questions and get answers interactively fro
 * Minetest: <https://minetest.net>
 * Stack Overflow: <https://stackoverflow.com/questions/tagged/git>
 * EdLUG Riot: <https://tinyurl.com/riot-edlug-git>
+
+[Next >>](07_find_projects.md)
