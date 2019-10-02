@@ -24,8 +24,18 @@ If you are not used to command lines, the following will be of use to you
 * `pwd` - show what folder you are in
 * `ls` - show the contents of the folder you are in
   * `ls FOLDER` - show the contents of the folder you name
+* `mkdir FOLDER` - create a new folder
 * `cd FOLDER` - go into a folder
 
 The Bash command environment (distributed with Git Bash, and default in many Linux systems) is very versatile. You can get comfortable with it in less than a day :-)
+
+For the workshop, you should make a folder in which to keep your git repositories:
+
+```sh
+mkdir -p code/github
+cd code/github
+```
+
+You're all set for the demo - keep the command window open.
 
 [Next >>](04_common_git_commands.md)
