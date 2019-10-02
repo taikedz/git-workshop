@@ -39,6 +39,8 @@ git checkout -b add-jsmith
 
 Edit the file in `data/participants` in a text editor.
 
+After saving, run the demo script again to see that your name is displayed!
+
 ## Stage, commit and push
 
 ```sh
@@ -49,4 +51,22 @@ git push --set-upstream origin add-jsmith
 
 ## Make a pull request
 
-Go to github.com and click on the branch name that you pushed
+Go to github.com and choose to `Compare & pull request`
+
+![fork button](images/github_prbutton.png)
+
+Fill in the dialog and submit. Now wait for your PR to be accepted
+
+## Pull in changes from original repo
+
+Update your repo with the original repo
+
+```sh
+git pull https://github.com/taikedz/git-workshop master
+```
+
+## You're done!
+
+That's it! You successfully made a PR!
+
+[Next >>](06_get_more_help.md)

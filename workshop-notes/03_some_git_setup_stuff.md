@@ -1,6 +1,6 @@
 # Some git setup stuff
 
-Here are some commands you should run when first setting up git:
+Here are some commands you should run when first setting up git. You will only need to do this once.
 
 ```sh
 # <- lines starting with a '#' are comments. Don't type them.
@@ -10,6 +10,11 @@ Here are some commands you should run when first setting up git:
 
 git config --global user.name "Jay Smith"
 git config --global user.email "jsmith@example.com"
+
+# This is to ensure that you don't get trapped in a difficult text editor
+
+echo 'export EDITOR=nano' > $HOME/.bashrc
+source ~/.bashrc
 ```
 
 ## Command lines
@@ -22,3 +27,5 @@ If you are not used to command lines, the following will be of use to you
 * `cd FOLDER` - go into a folder
 
 The Bash command environment (distributed with Git Bash, and default in many Linux systems) is very versatile. You can get comfortable with it in less than a day :-)
+
+[Next >>](04_common_git_commands.md)
