@@ -16,3 +16,5 @@ When you have found a project you want to contribute to, the following are the g
 * Once the PR is accepted and merged, you can delete your copy of the code from your online space - not before.
 
 If the change you proposed does not get accepted, don't worry! That change was not desired. Other changes may be more desirable in the future, so keep it up!
+
+[Next >>](02-2_example_pr.md)

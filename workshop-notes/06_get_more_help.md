@@ -14,4 +14,4 @@ Finally if you want somewhere to ask questions and get answers interactively fro
 * Youtube tutorial: <https://www.youtube.com/watch?v=dTEFos-D41U>
 * Minetest: <https://minetest.net>
 * Stack Overflow: <https://stackoverflow.com/questions/tagged/git>
-* EdLUG Riot: <https://riot.im/app/#/room/#edlug-git:matrix.org>
+* EdLUG Riot: <https://tinyurl.com/riot-edlug-git>
