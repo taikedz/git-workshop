@@ -10,4 +10,4 @@ A folder that is set up with git for tracking is called a repository. You can ad
 
 When you've made a bunch of changes, you track the differences in the files with a "commit." A commit says what changed, who made the changes, and when they were made. They are then added to the list of changes with a long key that guarantees its place in the history of the repository.
 
-There are many complex features in Git, and running the command `git --help` will tell you about a lot of them. The following are probably the most useful to start with.
+There are many complex features in Git, and running the command `git --help` will tell you about a lot of them.
