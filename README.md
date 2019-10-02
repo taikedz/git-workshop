@@ -1,6 +1,6 @@
 # Git Workshop
 
-This is a simple repository containing a workshop run by Tai with the [Edinburgh Linux User Group][edlug] to celebrate [Hacktoberfest][hacktoberfest]! We hope people will enjoy learning about Github and making their first PRs!
+This is a simple repository containing a workshop run the [Edinburgh Linux User Group][edlug] to celebrate [Hacktoberfest][hacktoberfest]! We hope people will enjoy learning about Github and making their first PRs!
 
 [See the workshop content][content]
 
