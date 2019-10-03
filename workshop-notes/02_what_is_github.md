@@ -2,7 +2,7 @@
 
 Github is a website where people can upload their source code repositories, and view and the changes they track using the `git` source control tool. It is very popular in the open source world - it is where nearly all projects store their code openly. Other sites like Gitlab.com and Bitbucket.com function in a similar way.
 
-The most notable feature of Github is what is called "forking." You can make a copy of somebody else's public code into your own account, and work on it separately from the official copy. When you are ready, you can send a request to the original project to ask them to accept your changes. This process is called a "Pull Request," literally a request to the oroginal code owners to pull in your changes. It is known by its initialism, "PR."
+The most notable feature of Github is what is called "forking." You can make a copy of somebody else's public code into your own account, and work on it separately from the official copy. When you are ready, you can send a request to the original project to ask them to accept your changes. This process is called a "Pull Request," literally a request to the original code owners to pull in your changes. It is known by its initialism, "PR."
 
 ## PR and contribution workflow
 
