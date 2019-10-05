@@ -15,3 +15,5 @@ But remember, contributions aren't just code!
 * Documentation bugs are also a thing!
 
 Keep that in mind, and you're on your way to being a great contributor to the projects you care about!
+
+[Next >>](08_what_next.md)
