@@ -19,6 +19,6 @@ To do so:
 
 You are now ready to run the workshop yourself! And if you develop a new way of running the workshop, we'd love to hear your feedback!
 
-You can see notes on past workshop runs in [the DIY `delivering_course.md` notes](DIY/delivering_course.md)
+You can see notes on past workshop runs in [the DIY `delivering_course.md` notes](delivering_course.md)
 
 Note : all participants' Github accounts will be visible to those who visit your workshop. You may want to delete your workshop space after the session if there is a privacy concern. HOWEVER if you are hosting a Hacktoberfest session, and added the `#hacktoberfest` topic to your repo for the PRs to count, leave it up until the end of Hacktoberfest!
