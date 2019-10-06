@@ -1,3 +1,5 @@
 # Contributing
 
-We only accept contributions from people who attended the workshop. Thank you for your enquiry.
+Please ensure you are participating in the git workshop session and follow the advice of the workshop leader.
+
+Thank you for checking this contribution instructions file!

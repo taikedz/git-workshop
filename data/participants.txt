@@ -1,4 +1,9 @@
-# Add your name here !
+# Add your name to the bottom of this file
+#  (for advanced Pull Requests)
+# 
+# Or create a new file in 'data/' based on your name
+#
+#  E.g. create a file "data/jsmith.txt" and edit it to include your name like "Jay Smith"
 
-Alice Demo
-Bob Test
+
+
