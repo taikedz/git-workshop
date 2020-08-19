@@ -30,6 +30,12 @@ There is a runnable script in the repo. Try running it:
 bash demo-script.sh
 ```
 
+On BSD you would need to run
+
+```sh
+sh demo-script.sh
+```
+
 ## Branch, and add your name
 
 ```sh
@@ -41,21 +47,22 @@ You now have two routes in front of you.
 
 The "Fresh beginner" route allows you to make a PR with no side-effects. Choose this if you are very new to git and have had difficulties in the above steps.
 
-The "Confident beginner" route introduces the new concept of "merge conflicts."
+The "Confident user" route introduces the new concept of "merge conflicts."
+
 * Fresh beginners
     * Substituting an appropriate short name instead of `jsmith`, and your full name instead of `Jay Smith`, run a command like this:
     * `echo "Jay Smith" >> data/jsmith.txt`
-* Confident beginners
+* Confident users
     * Edit the file in `data/participants.txt` in a text editor directly
     * Add your name to the end of the file, save and close the file
 
 Run the demo script again to see that your name is displayed!
 
 ```sh
-bash demo-script.sh
+sh demo-script.sh
 ```
 
-> A "merge conflict" is what happens when two people edit the same lines in the same file. If two or more people in your session choose the "Confident beginner" route, those who make a PR after the first person may experience this, because the computer algorithm cannot process it meaningfully - like asking "which way did they go" and being told in response, "both ways!" Your session lead or their asssitants will be able to help you if you encounter difficulties - remember to preserve other peoples' changes when resolving a merge conflict!
+> A "merge conflict" is what happens when two people edit the same lines in the same file. If two or more people in your session choose the "Confident user" route, those who make a PR after the first person may experience this, because the computer algorithm cannot process it meaningfully - like asking "which way did they go" and being told in response, "both ways!" Your session lead or their asssitants will be able to help you if you encounter difficulties - remember to preserve other peoples' changes when resolving a merge conflict!
 
 ## Stage, commit and push
 
@@ -77,7 +84,7 @@ Fill in the dialog and submit. Now wait for your PR to be accepted
 
 ## Pull in changes from original repo
 
-Those who chose the "Confident beginner" route: you may be asked to update your repo with the original repo. If so, the following is what you need to do on your own branch:
+Those who chose the "Confident user" route: you may be asked to update your repo with the original repo. If so, the following is what you need to do on your own branch:
 
 ```sh
 git pull https://github.com/taikedz/git-workshop master

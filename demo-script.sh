@@ -1,17 +1,19 @@
 #!/usr/bin/env bash
 
-function read_participants() {
+read_participants() {
     (
-    cd "$(dirname "$0")"
+    cd "`dirname "$0"`"
     cat data/*.txt | grep -Ev '^\s*(#.*|$)'
     )
 }
 
 
-echo -e "These programmers successfully made a Pull Request on Github:\n"
+echo "These programmers successfully made a Pull Request on Github:"
+echo ""
 
 read_participants | while read participant; do
     echo "- $participant"
 done
 
-echo -e "\nCongratulations to all!\n"
+echo "\nCongratulations to all!"
+echo ""
