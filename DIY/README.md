@@ -8,8 +8,8 @@ To do so:
 * Clone the repository locally
     * `git clone https://github.com/<your username>/git-workshop`
     * `cd git-workshop`
-* Do a hard reset to version 1.1.2
-    * `git reset --hard v1.1.2`
+* Do a hard reset to version 1.1.3
+    * `git reset --hard v1.1.3`
 * Change the main URLs in the example in `workshop-notes/05_guided_course.md`
     * The ones referring to the `taikedz` repository should be changed to match your namespace
 * Change the "getting more help" section to point to your own contact links as required.

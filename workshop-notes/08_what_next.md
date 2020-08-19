@@ -1,6 +1,6 @@
 # Next Steps
 
-* Hacktopberfest Github Topic
+* Hacktoberfest Github Topic
     * <https://github.com/topics/hacktoberfest>
 * Find the source code for projects and libraries you use
 * Continue learning the basics of Git

@@ -13,7 +13,7 @@ git config --global user.email "jsmith@example.com"
 
 # This is to ensure that you don't get trapped in a difficult text editor
 
-echo 'export EDITOR=nano' > "$HOME/.bashrc"
+echo 'export EDITOR=nano' >> "$HOME/.bashrc"
 source "$HOME/.bashrc"
 ```
 
